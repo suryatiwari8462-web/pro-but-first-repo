@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Users!!&height=100&section=header" alt="Hello Every GitHub Users!">
-</div>
+</div> 
 
 # Hi, I'm Surya Tiwari! 👋
 
